@@ -116,9 +116,3 @@ MIT License
 Made with ❤️ by [ADVAYA1](https://github.com/ADVAYA1)
 
 
----
-
-If you want, I can also make a **shorter, visually appealing version with badges** for GitHub that looks professional at first glance.  
-
-Do you want me to do that?
-```
