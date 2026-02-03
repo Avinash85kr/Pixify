@@ -8,7 +8,6 @@ Pixify is an AI-powered image generation platform that allows users to transform
 ---
 <img width="1696" height="836" alt="image" src="https://github.com/user-attachments/assets/ed14dc9b-05fb-4aa7-8071-99ce0942a4a0" />
 
-## 🌐 Live Demo [https://pixifyclient.vercel.app](https://pixifyclient.vercel.app) 
 
 ---
 
@@ -113,6 +112,6 @@ MIT License
 
 ---
 
-Made with ❤️ by [ADVAYA1](https://github.com/ADVAYA1)
+Made with ❤️ by [AVINASH](https://github.com/ADVAYA1)
 
 
